@@ -23,5 +23,8 @@
   "devDependencies": {
     "http-server": "^0.10.0",
     "psi-local": "^1.0.0"
+  },
+  "dependencies": {
+    "ngrok": "^2.2.22"
   }
 }
